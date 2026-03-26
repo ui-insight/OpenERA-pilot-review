@@ -1,4 +1,4 @@
-# Contributing to {{PROJECT_NAME}}
+# Contributing to OpenERA Pilot Review
 
 Thank you for your interest in contributing! This document provides guidelines for
 contributing to this project.

@@ -1,6 +1,6 @@
 # Security Overview
 
-This document describes the security architecture and practices for {{PROJECT_NAME}}.
+This document describes the security architecture and practices for OpenERA Pilot Review.
 
 ## Authentication
 

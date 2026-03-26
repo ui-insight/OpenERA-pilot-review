@@ -1,5 +1,5 @@
-site_name: "{{PROJECT_NAME}} Documentation"
-site_description: "Documentation for {{PROJECT_NAME}}"
+site_name: "OpenERA Pilot Review Documentation"
+site_description: "Documentation for OpenERA Pilot Review"
 repo_url: https://github.com/ui-insight/TEMPLATE-app
 repo_name: ui-insight/TEMPLATE-app
 edit_uri: edit/main/docs/

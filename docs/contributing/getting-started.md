@@ -12,8 +12,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ui-insight/{{PROJECT_NAME}}.git
-cd {{PROJECT_NAME}}
+git clone https://github.com/ui-insight/OpenERA Pilot Review.git
+cd OpenERA Pilot Review
 ```
 
 ### 2. Backend Setup

@@ -1,12 +1,24 @@
-# {{PROJECT_NAME}}
+# OpenERA Pilot Review
 
-> **This repository was created from the [UI-Insight TEMPLATE-app](https://github.com/ui-insight/TEMPLATE-app).**
-> Replace this section with a description of your application.
+Web dashboard for OSP staff to review the migration status of 5 representative research administration records from VERAS/Banner to OpenERA.
 
-## About This Template
+## About
 
-This template provides a production-ready starting point for building university business
-applications with AI-assisted (agentic) development. It defines:
+This application loads pilot migration staging data (awards, proposals, projects, documents) into a PostgreSQL database and provides a React dashboard for reviewing migration progress, document linkage, and data quality gaps.
+
+### Pilot Records
+
+| Record | Description | Documents |
+|--------|-------------|-----------|
+| AA4673 | Active award with amendments | 187 |
+| AA6006 | Award with subawards | 171 |
+| OS7090 | Largest local corpus | 477 |
+| SI3394 | Multi-proposal family | 360 |
+| V250261 | Proposal-only (no award) | 42 |
+
+## Tech Stack
+
+Built from the [UI-Insight TEMPLATE-app](https://github.com/ui-insight/TEMPLATE-app):
 
 - **Tech Stack**: React 19 + TypeScript + Tailwind CSS frontend, FastAPI + SQLAlchemy backend, PostgreSQL standard database
 - **Documentation Standards**: MkDocs Material site with architecture, governance, and security docs
@@ -36,7 +48,7 @@ the University of Idaho's open-source electronic research administration system.
 ### Using This Template
 
 1. Click **"Use this template"** on GitHub (or clone and remove git history)
-2. Find and replace `{{PROJECT_NAME}}` with your project name across all files
+2. Find and replace `OpenERA Pilot Review` with your project name across all files
 3. Update `CLAUDE.md` with your project description and any project-specific rules
 4. Update this `README.md` with your project's overview
 5. Review `.github/CODEOWNERS`, `SECURITY.md`, Postgres settings, and docs deployment settings for your real maintainers and hosting setup

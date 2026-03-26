@@ -23,8 +23,10 @@ services:
       - DEV_MODE=${DEV_MODE:-true}
       - UPLOAD_DIR=/app/uploads
       - CORS_ORIGINS=${CORS_ORIGINS:-["http://localhost:5173","http://localhost:9200"]}
+      - SEED_ON_STARTUP=${SEED_ON_STARTUP:-true}
     volumes:
       - uploads:/app/uploads
+      - ./backend/seed_data:/app/seed_data:ro
     depends_on:
       postgres:
         condition: service_healthy

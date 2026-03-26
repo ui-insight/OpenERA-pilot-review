@@ -1,0 +1,464 @@
+organization_id,organization_name,organization_type,source_value,source_system,parent_organization_id,needs_lookup
+DEPT-539,,Department,539,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-542,,Department,542,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-548,,Department,548,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-550,,Department,550,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-562,,Department,562,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-564,,Department,564,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-572,,Department,572,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-576,,Department,576,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-580,,Department,580,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-582,,Department,582,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-585,,Department,585,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-594,,Department,594,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-612,,Department,612,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-623,,Department,623,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-632,,Department,632,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-633,,Department,633,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-639,,Department,639,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-641,,Department,641,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-651,,Department,651,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-661,,Department,661,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-677,,Department,677,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-687,,Department,687,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-691,,Department,691,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-695,,Department,695,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-704,,Department,704,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-708,,Department,708,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-713,,Department,713,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-724,,Department,724,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-726,,Department,726,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-738,,Department,738,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-741,,Department,741,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-742,,Department,742,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-743,,Department,743,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-746,,Department,746,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-750,,Department,750,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-752,,Department,752,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-755,,Department,755,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-761,,Department,761,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-762,,Department,762,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-764,,Department,764,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-765,,Department,765,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-768,,Department,768,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-771,,Department,771,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-772,,Department,772,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-774,,Department,774,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-780,,Department,780,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-783,,Department,783,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-785,,Department,785,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-786,,Department,786,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-787,,Department,787,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-788,,Department,788,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-790,,Department,790,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-792,,Department,792,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-793,,Department,793,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-797,,Department,797,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-798,,Department,798,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-799,,Department,799,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-800,,Department,800,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-801,,Department,801,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-804,,Department,804,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-806,,Department,806,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-807,,Department,807,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-809,,Department,809,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-811,,Department,811,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-816,,Department,816,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-817,,Department,817,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-818,,Department,818,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-819,,Department,819,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-820,,Department,820,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-825,,Department,825,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-826,,Department,826,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-827,,Department,827,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-828,,Department,828,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-829,,Department,829,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-830,,Department,830,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-831,,Department,831,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-832,,Department,832,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-834,,Department,834,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-840,,Department,840,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-843,,Department,843,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-846,,Department,846,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-848,,Department,848,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-849,,Department,849,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-850,,Department,850,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-851,,Department,851,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-852,,Department,852,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-854,,Department,854,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-855,,Department,855,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-858,,Department,858,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-861,,Department,861,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-865,,Department,865,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-870,,Department,870,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-873,,Department,873,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-875,,Department,875,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-877,,Department,877,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-878,,Department,878,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-879,,Department,879,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-880,,Department,880,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-881,,Department,881,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-884,,Department,884,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-886,,Department,886,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-887,,Department,887,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-889,,Department,889,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-894,,Department,894,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-895,,Department,895,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-897,,Department,897,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-899,,Department,899,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-900,,Department,900,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-904,,Department,904,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-908,,Department,908,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-909,,Department,909,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-918,,Department,918,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-927,,Department,927,Banner Grant Listing Report,UI-LEAD,Y
+DEPT-928,,Department,928,Banner Grant Listing Report,UI-LEAD,Y
+UI-LEAD,University of Idaho,Institution,University of Idaho,Institutional Default,,N
+SPONSOR-ADACOU,Ada County Extension 4-H Office,Sponsor,ADACOU - Ada County Extension 4-H Office,Banner Grant Listing Report,,N
+SPONSOR-AGRMAR,Agricultural Marketing Service USDA,Sponsor,AGRMAR - Agricultural Marketing Service USDA,Banner Grant Listing Report,,N
+SPONSOR-ALADEP,Alaska Dept. of Fish & Game,Sponsor,ALADEP - Alaska Dept. of Fish & Game,Banner Grant Listing Report,,N
+SPONSOR-AMASUG,Amalgamated Sugar Company,Sponsor,AMASUG - Amalgamated Sugar Company,Banner Grant Listing Report,,N
+SPONSOR-AMEACA4,American Academy of Pediatrics,Sponsor,AMEACA4 - American Academy of Pediatrics,Banner Grant Listing Report,,N
+SPONSOR-AMECHE,American Chemical Society,Sponsor,AMECHE - American Chemical Society,Banner Grant Listing Report,,N
+SPONSOR-AMECOL1,Amer. College of Sports Med,Sponsor,AMECOL1 - Amer. College of Sports Med,Banner Grant Listing Report,,N
+SPONSOR-AMEFAR3,American Farmland Trust,Sponsor,AMEFAR3 - American Farmland Trust,Banner Grant Listing Report,,N
+SPONSOR-AMEMAL,"American Malting Barley Association, Inc.",Sponsor,"AMEMAL - American Malting Barley Association, Inc.",Banner Grant Listing Report,,N
+SPONSOR-AMEMEA,American Meat Science Assoc.,Sponsor,AMEMEA - American Meat Science Assoc.,Banner Grant Listing Report,,N
+SPONSOR-AMEPSY,Amer. Psychological Assoc.,Sponsor,AMEPSY - Amer. Psychological Assoc.,Banner Grant Listing Report,,N
+SPONSOR-ANDPER,"Anderson Perry & Assoc., Inc.",Sponsor,"ANDPER - Anderson Perry & Assoc., Inc.",Banner Grant Listing Report,,N
+SPONSOR-ANTINS,Anthropocene Institute,Sponsor,ANTINS - Anthropocene Institute,Banner Grant Listing Report,,N
+SPONSOR-ARCRAP,"Arctic Raptors, Inc.",Sponsor,"ARCRAP - Arctic Raptors, Inc.",Banner Grant Listing Report,,N
+SPONSOR-AREAGE,Area Agency on Aging,Sponsor,AREAGE - Area Agency on Aging,Banner Grant Listing Report,,N
+SPONSOR-ARISTA,Arizona State University,Sponsor,ARISTA - Arizona State University,Banner Grant Listing Report,,N
+SPONSOR-ARIUNI,University of Arizona,Sponsor,ARIUNI - University of Arizona,Banner Grant Listing Report,,N
+SPONSOR-ASCEDU,"Ascendium Education Group, Inc.",Sponsor,"ASCEDU - Ascendium Education Group, Inc.",Banner Grant Listing Report,,N
+SPONSOR-ASPRHO,Aspen Rhoads Research Foundation,Sponsor,ASPRHO - Aspen Rhoads Research Foundation,Banner Grant Listing Report,,N
+SPONSOR-ATTFOU,AT&T Foundation,Sponsor,ATTFOU - AT&T Foundation,Banner Grant Listing Report,,N
+SPONSOR-AUSUNI1,Association of University Centers on Disabilities,Sponsor,AUSUNI1 - Association of University Centers on Disabilities,Banner Grant Listing Report,,N
+SPONSOR-AVIFOU,Avista Foundation,Sponsor,AVIFOU - Avista Foundation,Banner Grant Listing Report,,N
+SPONSOR-BALSTA,Ball State University,Sponsor,BALSTA - Ball State University,Banner Grant Listing Report,,N
+SPONSOR-BARD,The United States-Israel Binational Ag Research & Dev Fund,Sponsor,BARD - The United States-Israel Binational Ag Research & Dev Fund,Banner Grant Listing Report,,N
+SPONSOR-BATCON,Bat Conservation Intl.,Sponsor,BATCON - Bat Conservation Intl.,Banner Grant Listing Report,,N
+SPONSOR-BATTELLE1,Battelle Energy Alliance LLC,Sponsor,BATTELLE1 - Battelle Energy Alliance LLC,Banner Grant Listing Report,,N
+SPONSOR-BAYCRO,Bayer CropScience LP,Sponsor,BAYCRO - Bayer CropScience LP,Banner Grant Listing Report,,N
+SPONSOR-BENMED,Marimn Health Inc,Sponsor,BENMED - Marimn Health Inc,Banner Grant Listing Report,,N
+SPONSOR-BETTEC,"BetaTec Hop Products, Inc.",Sponsor,"BETTEC - BetaTec Hop Products, Inc.",Banner Grant Listing Report,,N
+SPONSOR-BIOMAR,BioMar AS,Sponsor,BIOMAR - BioMar AS,Banner Grant Listing Report,,N
+SPONSOR-BLACOU,Blaine County Support,Sponsor,BLACOU - Blaine County Support,Banner Grant Listing Report,,N
+SPONSOR-BLALAN,Blaine County Land Use/Building Services,Sponsor,BLALAN - Blaine County Land Use/Building Services,Banner Grant Listing Report,,N
+SPONSOR-BLMFOU,Bureau of Land Management Foundation,Sponsor,BLMFOU - Bureau of Land Management Foundation,Banner Grant Listing Report,,N
+SPONSOR-BONENV,Bonneville Environmental Foundation,Sponsor,BONENV - Bonneville Environmental Foundation,Banner Grant Listing Report,,N
+SPONSOR-BRICOL6,British Columbia Wildlife Federation,Sponsor,BRICOL6 - British Columbia Wildlife Federation,Banner Grant Listing Report,,N
+SPONSOR-BRIFOC,"BrightFocus Foundation, Inc.",Sponsor,"BRIFOC - BrightFocus Foundation, Inc.",Banner Grant Listing Report,,N
+SPONSOR-BRIYOU,Brigham Young University,Sponsor,BRIYOU - Brigham Young University,Banner Grant Listing Report,,N
+SPONSOR-BROUNI,Brown University,Sponsor,BROUNI - Brown University,Banner Grant Listing Report,,N
+SPONSOR-BSU,Boise State University,Sponsor,BSU - Boise State University,Banner Grant Listing Report,,N
+SPONSOR-BURREC,US Department of Interior - Bureau of Reclamation,Sponsor,BURREC - US Department of Interior - Bureau of Reclamation,Banner Grant Listing Report,,N
+SPONSOR-CAVRES,Cave Research Foundation,Sponsor,CAVRES - Cave Research Foundation,Banner Grant Listing Report,,N
+SPONSOR-CENWAS,Central Washington University,Sponsor,CENWAS - Central Washington University,Banner Grant Listing Report,,N
+SPONSOR-CITBOI,City of Boise,Sponsor,CITBOI - City of Boise,Banner Grant Listing Report,,N
+SPONSOR-CITECH,City of Echo,Sponsor,CITECH - City of Echo,Banner Grant Listing Report,,N
+SPONSOR-CITPOC,City of Pocatello,Sponsor,CITPOC - City of Pocatello,Banner Grant Listing Report,,N
+SPONSOR-CITTWI,City of Twin Falls,Sponsor,CITTWI - City of Twin Falls,Banner Grant Listing Report,,N
+SPONSOR-COCOCO,Conference on College Composition and Communication,Sponsor,COCOCO - Conference on College Composition and Communication,Banner Grant Listing Report,,N
+SPONSOR-COEDAL7,Coeur d'Alene Tribe,Sponsor,COEDAL7 - Coeur d'Alene Tribe,Banner Grant Listing Report,,N
+SPONSOR-COLAGR1,Colorado Department of Agriculture,Sponsor,COLAGR1 - Colorado Department of Agriculture,Banner Grant Listing Report,,N
+SPONSOR-COLRIV,Columbia River Inter-Tribal,Sponsor,COLRIV - Columbia River Inter-Tribal,Banner Grant Listing Report,,N
+SPONSOR-COLSTA1,Colorado State University,Sponsor,COLSTA1 - Colorado State University,Banner Grant Listing Report,,N
+SPONSOR-COLUNI6,Columbia University,Sponsor,COLUNI6 - Columbia University,Banner Grant Listing Report,,N
+SPONSOR-COMCOU4,Community Council of Idaho Inc,Sponsor,COMCOU4 - Community Council of Idaho Inc,Banner Grant Listing Report,,N
+SPONSOR-CONFUN,The Conservation Fund,Sponsor,CONFUN - The Conservation Fund,Banner Grant Listing Report,,N
+SPONSOR-CONSCI1,Conservation Science Partners Inc,Sponsor,CONSCI1 - Conservation Science Partners Inc,Banner Grant Listing Report,,N
+SPONSOR-CONTRI1,Confederated Tribes of the Umatilla Indian Reservation,Sponsor,CONTRI1 - Confederated Tribes of the Umatilla Indian Reservation,Banner Grant Listing Report,,N
+SPONSOR-CORAGR,Corteva Agriscience,Sponsor,CORAGR - Corteva Agriscience,Banner Grant Listing Report,,N
+SPONSOR-CORUNI,Cornell University,Sponsor,CORUNI - Cornell University,Banner Grant Listing Report,,N
+SPONSOR-COTINC1,Cotton Incorporated,Sponsor,COTINC1 - Cotton Incorporated,Banner Grant Listing Report,,N
+SPONSOR-COULIB1,Council on Library and Information Resources,Sponsor,COULIB1 - Council on Library and Information Resources,Banner Grant Listing Report,,N
+SPONSOR-COVACO,Coachella Valley Conservation Commission,Sponsor,COVACO - Coachella Valley Conservation Commission,Banner Grant Listing Report,,N
+SPONSOR-CPRDEV,Rochester Institute of Technology,Sponsor,CPRDEV - Rochester Institute of Technology,Banner Grant Listing Report,,N
+SPONSOR-CUSCO,Custer Co Commissioners,Sponsor,CUSCO - Custer Co Commissioners,Banner Grant Listing Report,,N
+SPONSOR-DAIMAN,"Dairy Management, Inc.",Sponsor,"DAIMAN - Dairy Management, Inc.",Banner Grant Listing Report,,N
+SPONSOR-DEPHEA,Department of Health & Human Services,Sponsor,DEPHEA - Department of Health & Human Services,Banner Grant Listing Report,,N
+SPONSOR-DHHS1,Dept. Health and Human Services,Sponsor,DHHS1 - Dept. Health and Human Services,Banner Grant Listing Report,,N
+SPONSOR-DIAALL,Diabetes Alliance of Idaho Inc,Sponsor,DIAALL - Diabetes Alliance of Idaho Inc,Banner Grant Listing Report,,N
+SPONSOR-DOD1,Department of Defense,Sponsor,DOD1 - Department of Defense,Banner Grant Listing Report,,N
+SPONSOR-DOE1,Department of Energy,Sponsor,DOE1 - Department of Energy,Banner Grant Listing Report,,N
+SPONSOR-DPIGLO,"DPI Global, Inc.",Sponsor,"DPIGLO - DPI Global, Inc.",Banner Grant Listing Report,,N
+SPONSOR-ELEBATT,Electra Battery Materials Corp.,Sponsor,ELEBATT - Electra Battery Materials Corp.,Banner Grant Listing Report,,N
+SPONSOR-EMBGER,Embassy of the Federal Republic of Germany,Sponsor,EMBGER - Embassy of the Federal Republic of Germany,Banner Grant Listing Report,,N
+SPONSOR-ENEMIN,Office of Energy & Mineral Resources,Sponsor,ENEMIN - Office of Energy & Mineral Resources,Banner Grant Listing Report,,N
+SPONSOR-ENERES,Office of Energy Resources,Sponsor,ENERES - Office of Energy Resources,Banner Grant Listing Report,,N
+SPONSOR-ENVFLI,EnviroFlight,Sponsor,ENVFLI - EnviroFlight,Banner Grant Listing Report,,N
+SPONSOR-EPA11,US Environmental Protection Agency,Sponsor,EPA11 - US Environmental Protection Agency,Banner Grant Listing Report,,N
+SPONSOR-EPRI,"Electric Power Research Institute, Inc.",Sponsor,"EPRI - Electric Power Research Institute, Inc.",Banner Grant Listing Report,,N
+SPONSOR-EVEAQU,Evergreen Aquatics,Sponsor,EVEAQU - Evergreen Aquatics,Banner Grant Listing Report,,N
+SPONSOR-EXTFOU,eXtension Foundation,Sponsor,EXTFOU - eXtension Foundation,Banner Grant Listing Report,,N
+SPONSOR-FAMADV1,Family Advocacy Center and Education Services,Sponsor,FAMADV1 - Family Advocacy Center and Education Services,Banner Grant Listing Report,,N
+SPONSOR-FEDCOM,Federal Communications Commission,Sponsor,FEDCOM - Federal Communications Commission,Banner Grant Listing Report,,N
+SPONSOR-FLOAM,Florida A&M University,Sponsor,FLOAM - Florida A&M University,Banner Grant Listing Report,,N
+SPONSOR-FLOUNI,University of Florida,Sponsor,FLOUNI - University of Florida,Banner Grant Listing Report,,N
+SPONSOR-GALOPP,Galena Opportunity Fund,Sponsor,GALOPP - Galena Opportunity Fund,Banner Grant Listing Report,,N
+SPONSOR-GENLLC,Geneshifters LLC,Sponsor,GENLLC - Geneshifters LLC,Banner Grant Listing Report,,N
+SPONSOR-GENNEX1,GenNext Materials & Technologies LLC,Sponsor,GENNEX1 - GenNext Materials & Technologies LLC,Banner Grant Listing Report,,N
+SPONSOR-GEOUNI1,University of Georgia,Sponsor,GEOUNI1 - University of Georgia,Banner Grant Listing Report,,N
+SPONSOR-GHDSER,GHD Services Inc,Sponsor,GHDSER - GHD Services Inc,Banner Grant Listing Report,,N
+SPONSOR-GOOCOU4,Gooding County Extension Office,Sponsor,GOOCOU4 - Gooding County Extension Office,Banner Grant Listing Report,,N
+SPONSOR-GOOFOO,Good Food Institute,Sponsor,GOOFOO - Good Food Institute,Banner Grant Listing Report,,N
+SPONSOR-GORBET,Gordon and Betty Moore Foundation,Sponsor,GORBET - Gordon and Betty Moore Foundation,Banner Grant Listing Report,,N
+SPONSOR-GRAPRO5,Grain Processing Corporation,Sponsor,GRAPRO5 - Grain Processing Corporation,Banner Grant Listing Report,,N
+SPONSOR-GRAWOM,Graduate Women in Science,Sponsor,GRAWOM - Graduate Women in Science,Banner Grant Listing Report,,N
+SPONSOR-GREPAT,GreenPath Energy Solutions,Sponsor,GREPAT - GreenPath Energy Solutions,Banner Grant Listing Report,,N
+SPONSOR-HAYLAK3,Hayden Lake Watershed Improvement District,Sponsor,HAYLAK3 - Hayden Lake Watershed Improvement District,Banner Grant Listing Report,,N
+SPONSOR-HEISIM,Heising-Simons Foundation,Sponsor,HEISIM - Heising-Simons Foundation,Banner Grant Listing Report,,N
+SPONSOR-HENMJA,Henry M. Jackson Foundation,Sponsor,HENMJA - Henry M. Jackson Foundation,Banner Grant Listing Report,,N
+SPONSOR-HIPCFU,Hiroshima Peace Creation Fund,Sponsor,HIPCFU - Hiroshima Peace Creation Fund,Banner Grant Listing Report,,N
+SPONSOR-HOLEDU,Holocaust Educational Foundation of Northwestern University,Sponsor,HOLEDU - Holocaust Educational Foundation of Northwestern University,Banner Grant Listing Report,,N
+SPONSOR-HOMSEC,US Department of Homeland Security,Sponsor,HOMSEC - US Department of Homeland Security,Banner Grant Listing Report,,N
+SPONSOR-HOWHUG2,Howard Hughes Medical Institute,Sponsor,HOWHUG2 - Howard Hughes Medical Institute,Banner Grant Listing Report,,N
+SPONSOR-HRC,Hop Research Council,Sponsor,HRC - Hop Research Council,Banner Grant Listing Report,,N
+SPONSOR-IAC,Idaho Apple Commission,Sponsor,IAC - Idaho Apple Commission,Banner Grant Listing Report,,N
+SPONSOR-IAEYC,Idaho Association for the Education of Young Children,Sponsor,IAEYC - Idaho Association for the Education of Young Children,Banner Grant Listing Report,,N
+SPONSOR-IDAAGR,Idaho Department of Agriculture,Sponsor,IDAAGR - Idaho Department of Agriculture,Banner Grant Listing Report,,N
+SPONSOR-IDAARM,Idaho Army National Guard,Sponsor,IDAARM - Idaho Army National Guard,Banner Grant Listing Report,,N
+SPONSOR-IDABAR,Idaho Barley Commission,Sponsor,IDABAR - Idaho Barley Commission,Banner Grant Listing Report,,N
+SPONSOR-IDABEA1,Idaho Bean Commission,Sponsor,IDABEA1 - Idaho Bean Commission,Banner Grant Listing Report,,N
+SPONSOR-IDABEE,Idaho Beef Council,Sponsor,IDABEE - Idaho Beef Council,Banner Grant Listing Report,,N
+SPONSOR-IDABOT,"Idaho Botanical Gardens, Inc.",Sponsor,"IDABOT - Idaho Botanical Gardens, Inc.",Banner Grant Listing Report,,N
+SPONSOR-IDABUS8,Idaho Business for Education Inc,Sponsor,IDABUS8 - Idaho Business for Education Inc,Banner Grant Listing Report,,N
+SPONSOR-IDACAT5,"Idaho Cattle Foundation, Inc.",Sponsor,"IDACAT5 - Idaho Cattle Foundation, Inc.",Banner Grant Listing Report,,N
+SPONSOR-IDACHE,Idaho Cherry Commission,Sponsor,IDACHE - Idaho Cherry Commission,Banner Grant Listing Report,,N
+SPONSOR-IDACOM,Idaho Commission on the Arts,Sponsor,IDACOM - Idaho Commission on the Arts,Banner Grant Listing Report,,N
+SPONSOR-IDACOM5,Idaho Department of Commerce,Sponsor,IDACOM5 - Idaho Department of Commerce,Banner Grant Listing Report,,N
+SPONSOR-IDADAI,"Idaho Dairymen's Association, Inc.",Sponsor,"IDADAI - Idaho Dairymen's Association, Inc.",Banner Grant Listing Report,,N
+SPONSOR-IDADIV2,Idaho Career and Technical Education,Sponsor,IDADIV2 - Idaho Career and Technical Education,Banner Grant Listing Report,,N
+SPONSOR-IDADIV3,Idaho Division of Vocational Rehab,Sponsor,IDADIV3 - Idaho Division of Vocational Rehab,Banner Grant Listing Report,,N
+SPONSOR-IDAEAS,Idaho Eastern Oregon Seed Association,Sponsor,IDAEAS - Idaho Eastern Oregon Seed Association,Banner Grant Listing Report,,N
+SPONSOR-IDAFIS,Idaho Department of Fish & Game,Sponsor,IDAFIS - Idaho Department of Fish & Game,Banner Grant Listing Report,,N
+SPONSOR-IDAFIS3,Idaho Fish & Wildlife Foundation,Sponsor,IDAFIS3 - Idaho Fish & Wildlife Foundation,Banner Grant Listing Report,,N
+SPONSOR-IDAFOR4,Idaho Forest Group,Sponsor,IDAFOR4 - Idaho Forest Group,Banner Grant Listing Report,,N
+SPONSOR-IDAGRA2,Idaho Wine Commission,Sponsor,IDAGRA2 - Idaho Wine Commission,Banner Grant Listing Report,,N
+SPONSOR-IDAHOP,Idaho Hop Growers Commission,Sponsor,IDAHOP - Idaho Hop Growers Commission,Banner Grant Listing Report,,N
+SPONSOR-IDAHUM1,Idaho Humanities Council,Sponsor,IDAHUM1 - Idaho Humanities Council,Banner Grant Listing Report,,N
+SPONSOR-IDAIMM2,Idaho Immunization Coalition,Sponsor,IDAIMM2 - Idaho Immunization Coalition,Banner Grant Listing Report,,N
+SPONSOR-IDALAB1,Idaho Department of Labor,Sponsor,IDALAB1 - Idaho Department of Labor,Banner Grant Listing Report,,N
+SPONSOR-IDALAN,Idaho Department of Lands,Sponsor,IDALAN - Idaho Department of Lands,Banner Grant Listing Report,,N
+SPONSOR-IDAMIN2,Idaho Mint Commission,Sponsor,IDAMIN2 - Idaho Mint Commission,Banner Grant Listing Report,,N
+SPONSOR-IDANUR,Idaho Nursery and Landscape Association,Sponsor,IDANUR - Idaho Nursery and Landscape Association,Banner Grant Listing Report,,N
+SPONSOR-IDAOIL,Idaho Oilseed Commission,Sponsor,IDAOIL - Idaho Oilseed Commission,Banner Grant Listing Report,,N
+SPONSOR-IDAPAR1,Idaho Dept. of Parks & Rec.,Sponsor,IDAPAR1 - Idaho Dept. of Parks & Rec.,Banner Grant Listing Report,,N
+SPONSOR-IDAPOT5,Idaho Potato Commission,Sponsor,IDAPOT5 - Idaho Potato Commission,Banner Grant Listing Report,,N
+SPONSOR-IDAPOW3,Idaho Power Company,Sponsor,IDAPOW3 - Idaho Power Company,Banner Grant Listing Report,,N
+SPONSOR-IDASTA34,Idaho State Board of Education,Sponsor,IDASTA34 - Idaho State Board of Education,Banner Grant Listing Report,,N
+SPONSOR-IDASTA43,Idaho State Liquor Division,Sponsor,IDASTA43 - Idaho State Liquor Division,Banner Grant Listing Report,,N
+SPONSOR-IDASTA8,Idaho State University,Sponsor,IDASTA8 - Idaho State University,Banner Grant Listing Report,,N
+SPONSOR-IDASTE2,Idaho STEM Action Center,Sponsor,IDASTE2 - Idaho STEM Action Center,Banner Grant Listing Report,,N
+SPONSOR-IDAWHE,Idaho Wheat Commission,Sponsor,IDAWHE - Idaho Wheat Commission,Banner Grant Listing Report,,N
+SPONSOR-IDAWOR,Idaho Workforce Development Council,Sponsor,IDAWOR - Idaho Workforce Development Council,Banner Grant Listing Report,,N
+SPONSOR-IDHW7,Idaho Dept. of Health & Welfare,Sponsor,IDHW7 - Idaho Dept. of Health & Welfare,Banner Grant Listing Report,,N
+SPONSOR-IDHWDEQ3,Idaho Department of Environmental Quality,Sponsor,IDHWDEQ3 - Idaho Department of Environmental Quality,Banner Grant Listing Report,,N
+SPONSOR-IDVR,Idaho Dept. of Voc Rehabilitation,Sponsor,IDVR - Idaho Dept. of Voc Rehabilitation,Banner Grant Listing Report,,N
+SPONSOR-IDWR,Idaho Dept. of Water Resources,Sponsor,IDWR - Idaho Dept. of Water Resources,Banner Grant Listing Report,,N
+SPONSOR-IEOOC,Idaho Eastern Oregon Onion Comm,Sponsor,IEOOC - Idaho Eastern Oregon Onion Comm,Banner Grant Listing Report,,N
+SPONSOR-IFPC,Idaho Forest Products Commission,Sponsor,IFPC - Idaho Forest Products Commission,Banner Grant Listing Report,,N
+SPONSOR-ILLUNI,University of Illinois,Sponsor,ILLUNI - University of Illinois,Banner Grant Listing Report,,N
+SPONSOR-INCFAR,"InCity Farms, LLC",Sponsor,"INCFAR - InCity Farms, LLC",Banner Grant Listing Report,,N
+SPONSOR-INDLAN,Indian Land Tenure Foundation,Sponsor,INDLAN - Indian Land Tenure Foundation,Banner Grant Listing Report,,N
+SPONSOR-INSINT3,Institute of International Education,Sponsor,INSINT3 - Institute of International Education,Banner Grant Listing Report,,N
+SPONSOR-INSMUS,Institute of Museum and Library Services,Sponsor,INSMUS - Institute of Museum and Library Services,Banner Grant Listing Report,,N
+SPONSOR-INTREV,Internal Revenue Service,Sponsor,INTREV - Internal Revenue Service,Banner Grant Listing Report,,N
+SPONSOR-INTSOC7,International Society for Research in Human Milk & Lactation,Sponsor,INTSOC7 - International Society for Research in Human Milk & Lactation,Banner Grant Listing Report,,N
+SPONSOR-INVEDU,"The Lemelson Foundation, InventEd",Sponsor,"INVEDU - The Lemelson Foundation, InventEd",Banner Grant Listing Report,,N
+SPONSOR-IOEM,Idaho Office of Emergency Management,Sponsor,IOEM - Idaho Office of Emergency Management,Banner Grant Listing Report,,N
+SPONSOR-IOWSTA,Iowa State University,Sponsor,IOWSTA - Iowa State University,Banner Grant Listing Report,,N
+SPONSOR-ISDE1,Idaho State Department of Education,Sponsor,ISDE1 - Idaho State Department of Education,Banner Grant Listing Report,,N
+SPONSOR-ISDE7,Idaho State Department of Education,Sponsor,ISDE7 - Idaho State Department of Education,Banner Grant Listing Report,,N
+SPONSOR-ITD1,Idaho Transportation Department,Sponsor,ITD1 - Idaho Transportation Department,Banner Grant Listing Report,,N
+SPONSOR-JANNUS,Jannus Inc.,Sponsor,JANNUS - Jannus Inc.,Banner Grant Listing Report,,N
+SPONSOR-JAPFOU,The Japan Foundation,Sponsor,JAPFOU - The Japan Foundation,Banner Grant Listing Report,,N
+SPONSOR-JOHHOP1,Johns Hopkins University,Sponsor,JOHHOP1 - Johns Hopkins University,Banner Grant Listing Report,,N
+SPONSOR-JPL,Jet Propulsion Laboratories,Sponsor,JPL - Jet Propulsion Laboratories,Banner Grant Listing Report,,N
+SPONSOR-JRSIM,J. R. Simplot Company,Sponsor,JRSIM - J. R. Simplot Company,Banner Grant Listing Report,,N
+SPONSOR-KANSTA,Kansas State University,Sponsor,KANSTA - Kansas State University,Banner Grant Listing Report,,N
+SPONSOR-KENCOR2,Kentek Corporation,Sponsor,KENCOR2 - Kentek Corporation,Banner Grant Listing Report,,N
+SPONSOR-KENUNIKEN,University of Kentucky,Sponsor,KENUNIKEN - University of Kentucky,Banner Grant Listing Report,,N
+SPONSOR-KOOCOU4,Kootenai County,Sponsor,KOOCOU4 - Kootenai County,Banner Grant Listing Report,,N
+SPONSOR-KOOTRI,Kootenai Tribe,Sponsor,KOOTRI - Kootenai Tribe,Banner Grant Listing Report,,N
+SPONSOR-LANSLI,Landslide Technology,Sponsor,LANSLI - Landslide Technology,Banner Grant Listing Report,,N
+SPONSOR-MARUNI,University of Maryland,Sponsor,MARUNI - University of Maryland,Banner Grant Listing Report,,N
+SPONSOR-MASINS,Massachusetts Institute of Technology,Sponsor,MASINS - Massachusetts Institute of Technology,Banner Grant Listing Report,,N
+SPONSOR-MBRAYN,Meg & Bert Raynes Wildlife Fund,Sponsor,MBRAYN - Meg & Bert Raynes Wildlife Fund,Banner Grant Listing Report,,N
+SPONSOR-MCCFOO1,McCain Foods Canada,Sponsor,MCCFOO1 - McCain Foods Canada,Banner Grant Listing Report,,N
+SPONSOR-MERANI,"Merck Animal Health (Intervet, Inc.)",Sponsor,"MERANI - Merck Animal Health (Intervet, Inc.)",Banner Grant Listing Report,,N
+SPONSOR-MICRON,Micron Technology Inc,Sponsor,MICRON - Micron Technology Inc,Banner Grant Listing Report,,N
+SPONSOR-MICSTA,Michigan State University,Sponsor,MICSTA - Michigan State University,Banner Grant Listing Report,,N
+SPONSOR-MICTEC,Michigan Technological University,Sponsor,MICTEC - Michigan Technological University,Banner Grant Listing Report,,N
+SPONSOR-MILCHE,"Miller Chemical & Fertilizer, LLC",Sponsor,"MILCHE - Miller Chemical & Fertilizer, LLC",Banner Grant Listing Report,,N
+SPONSOR-MININD1,Mint Industry Research Council,Sponsor,MININD1 - Mint Industry Research Council,Banner Grant Listing Report,,N
+SPONSOR-MINUNI,Regents of the University of Minnesota,Sponsor,MINUNI - Regents of the University of Minnesota,Banner Grant Listing Report,,N
+SPONSOR-MISSTA1,Mississippi State University,Sponsor,MISSTA1 - Mississippi State University,Banner Grant Listing Report,,N
+SPONSOR-MISUNI,University of Missouri,Sponsor,MISUNI - University of Missouri,Banner Grant Listing Report,,N
+SPONSOR-MISUNI1,University of Missouri-Rolla,Sponsor,MISUNI1 - University of Missouri-Rolla,Banner Grant Listing Report,,N
+SPONSOR-MONCOM,Monsanto Company,Sponsor,MONCOM - Monsanto Company,Banner Grant Listing Report,,N
+SPONSOR-MONDEP4,Montana Department of Agriculture,Sponsor,MONDEP4 - Montana Department of Agriculture,Banner Grant Listing Report,,N
+SPONSOR-MONFW-P,Montana Fish Wildlife & Parks,Sponsor,MONFW&P - Montana Fish Wildlife & Parks,Banner Grant Listing Report,,N
+SPONSOR-MONSTA1,Montana State University,Sponsor,MONSTA1 - Montana State University,Banner Grant Listing Report,,N
+SPONSOR-MONUNI1,University of Montana,Sponsor,MONUNI1 - University of Montana,Banner Grant Listing Report,,N
+SPONSOR-MOSCHA,Moscow Chamber of Commerce,Sponsor,MOSCHA - Moscow Chamber of Commerce,Banner Grant Listing Report,,N
+SPONSOR-MOSSCH,County of Latah School District 281,Sponsor,MOSSCH - County of Latah School District 281,Banner Grant Listing Report,,N
+SPONSOR-MULTIP,Multiplier,Sponsor,MULTIP - Multiplier,Banner Grant Listing Report,,N
+SPONSOR-MULTIPLE,Multiple Sponsors,Sponsor,MULTIPLE - Multiple Sponsors,Banner Grant Listing Report,,N
+SPONSOR-MURCHA,M. J. Murdock Charitable Trust,Sponsor,MURCHA - M. J. Murdock Charitable Trust,Banner Grant Listing Report,,N
+SPONSOR-MUSBIO,MustGrow Biologics Corp,Sponsor,MUSBIO - MustGrow Biologics Corp,Banner Grant Listing Report,,N
+SPONSOR-NAHPAI,"National Health Promotion Associates, Inc",Sponsor,"NAHPAI - National Health Promotion Associates, Inc",Banner Grant Listing Report,,N
+SPONSOR-NASA,National Aeronautic Space Ad.,Sponsor,NASA - National Aeronautic Space Ad.,Banner Grant Listing Report,,N
+SPONSOR-NASSHA,NASA Shared Services Center,Sponsor,NASSHA - NASA Shared Services Center,Banner Grant Listing Report,,N
+SPONSOR-NAT4H3,National 4-H Council,Sponsor,NAT4H3 - National 4-H Council,Banner Grant Listing Report,,N
+SPONSOR-NAT4H4,National 4-H Shooting Sports,Sponsor,NAT4H4 - National 4-H Shooting Sports,Banner Grant Listing Report,,N
+SPONSOR-NATA,Northwest Athletic Trainers' Association,Sponsor,NATA - Northwest Athletic Trainers' Association,Banner Grant Listing Report,,N
+SPONSOR-NATACA1,Nat'l Academic Advising Assoc.,Sponsor,NATACA1 - Nat'l Academic Advising Assoc.,Banner Grant Listing Report,,N
+SPONSOR-NATAHE,National AHEC Organization,Sponsor,NATAHE - National AHEC Organization,Banner Grant Listing Report,,N
+SPONSOR-NATALF1,National Alfalfa & Forage Alliance,Sponsor,NATALF1 - National Alfalfa & Forage Alliance,Banner Grant Listing Report,,N
+SPONSOR-NATCAM,Natl Assoc for Campus Activiti,Sponsor,NATCAM - Natl Assoc for Campus Activiti,Banner Grant Listing Report,,N
+SPONSOR-NATCAT,National Cattlemen's Beef Association,Sponsor,NATCAT - National Cattlemen's Beef Association,Banner Grant Listing Report,,N
+SPONSOR-NATCON1,Nature Conservancy,Sponsor,NATCON1 - Nature Conservancy,Banner Grant Listing Report,,N
+SPONSOR-NATPOR,National Pork Board,Sponsor,NATPOR - National Pork Board,Banner Grant Listing Report,,N
+SPONSOR-NATREN,National Renewable Energy Laboratory,Sponsor,NATREN - National Renewable Energy Laboratory,Banner Grant Listing Report,,N
+SPONSOR-NATRES20,"Natura Resources, LLC",Sponsor,"NATRES20 - Natura Resources, LLC",Banner Grant Listing Report,,N
+SPONSOR-NATSEC2,National Security Agency,Sponsor,NATSEC2 - National Security Agency,Banner Grant Listing Report,,N
+SPONSOR-NCAFOU,NCASI Foundation,Sponsor,NCAFOU - NCASI Foundation,Banner Grant Listing Report,,N
+SPONSOR-NCSTUN,NC State University,Sponsor,NCSTUN - NC State University,Banner Grant Listing Report,,N
+SPONSOR-NEBUNI,University of Nebraska,Sponsor,NEBUNI - University of Nebraska,Banner Grant Listing Report,,N
+SPONSOR-NEH,National Endowment for the Humanities,Sponsor,NEH - National Endowment for the Humanities,Banner Grant Listing Report,,N
+SPONSOR-NEVREG,University of Nevada Las Vegas Board of Regents,Sponsor,NEVREG - University of Nevada Las Vegas Board of Regents,Banner Grant Listing Report,,N
+SPONSOR-NEVUNI3,University of Nevada at Reno,Sponsor,NEVUNI3 - University of Nevada at Reno,Banner Grant Listing Report,,N
+SPONSOR-NEWMEX12,"New Mexico Start-Up Factory, LLC",Sponsor,"NEWMEX12 - New Mexico Start-Up Factory, LLC",Banner Grant Listing Report,,N
+SPONSOR-NEWUNI1,University of New Mexico,Sponsor,NEWUNI1 - University of New Mexico,Banner Grant Listing Report,,N
+SPONSOR-NEZTRI,Nez Perce Tribe,Sponsor,NEZTRI - Nez Perce Tribe,Banner Grant Listing Report,,N
+SPONSOR-NIFA,National Institute of Food & Agriculture/USDA,Sponsor,NIFA - National Institute of Food & Agriculture/USDA,Banner Grant Listing Report,,N
+SPONSOR-NOFOJO,North Fork John Day Watershed Council,Sponsor,NOFOJO - North Fork John Day Watershed Council,Banner Grant Listing Report,,N
+SPONSOR-NORCAR,North Carolina St. University,Sponsor,NORCAR - North Carolina St. University,Banner Grant Listing Report,,N
+SPONSOR-NORDAK3,North Dakota Game & Fish Dept,Sponsor,NORDAK3 - North Dakota Game & Fish Dept,Banner Grant Listing Report,,N
+SPONSOR-NORENE2,"Northwest Energy Efficiency Alliance, Inc.",Sponsor,"NORENE2 - Northwest Energy Efficiency Alliance, Inc.",Banner Grant Listing Report,,N
+SPONSOR-NORMAN,"Northwest Management, Inc.",Sponsor,"NORMAN - Northwest Management, Inc.",Banner Grant Listing Report,,N
+SPONSOR-NORUNI2,University of North Dakota,Sponsor,NORUNI2 - University of North Dakota,Banner Grant Listing Report,,N
+SPONSOR-NSF,National Science Foundation,Sponsor,NSF - National Science Foundation,Banner Grant Listing Report,,N
+SPONSOR-NUCINC,"NuCicer, Inc.",Sponsor,"NUCINC - NuCicer, Inc.",Banner Grant Listing Report,,N
+SPONSOR-NUSNUT,NuSeed Nutritional US Inc.,Sponsor,NUSNUT - NuSeed Nutritional US Inc.,Banner Grant Listing Report,,N
+SPONSOR-ODFW3,Oregon Department of Fish & Wildlife,Sponsor,ODFW3 - Oregon Department of Fish & Wildlife,Banner Grant Listing Report,,N
+SPONSOR-OHISOY,Ohio Soybean Council,Sponsor,OHISOY - Ohio Soybean Council,Banner Grant Listing Report,,N
+SPONSOR-OHISTA,Ohio State University,Sponsor,OHISTA - Ohio State University,Banner Grant Listing Report,,N
+SPONSOR-OHISTA2,Ohio State University Research Foundation,Sponsor,OHISTA2 - Ohio State University Research Foundation,Banner Grant Listing Report,,N
+SPONSOR-OKLINC,Oklo Inc,Sponsor,OKLINC - Oklo Inc,Banner Grant Listing Report,,N
+SPONSOR-OKLWIL,Oklahoma Dept of Wildlife Conservation,Sponsor,OKLWIL - Oklahoma Dept of Wildlife Conservation,Banner Grant Listing Report,,N
+SPONSOR-OREFOR,Oregon Forest Resources Institute,Sponsor,OREFOR - Oregon Forest Resources Institute,Banner Grant Listing Report,,N
+SPONSOR-ORESTA3,Oregon State University,Sponsor,ORESTA3 - Oregon State University,Banner Grant Listing Report,,N
+SPONSOR-ORETIL,Oregon Tilth Inc,Sponsor,ORETIL - Oregon Tilth Inc,Banner Grant Listing Report,,N
+SPONSOR-PAINLL,"Panacea Interactive, LLC",Sponsor,"PAINLL - Panacea Interactive, LLC",Banner Grant Listing Report,,N
+SPONSOR-PALCON,Palouse Conservation District,Sponsor,PALCON - Palouse Conservation District,Banner Grant Listing Report,,N
+SPONSOR-PALLAN,Palouse Land Trust Inc,Sponsor,PALLAN - Palouse Land Trust Inc,Banner Grant Listing Report,,N
+SPONSOR-PANOVE,Pacific Northwest Vegetable Association,Sponsor,PANOVE - Pacific Northwest Vegetable Association,Banner Grant Listing Report,,N
+SPONSOR-PBAC,Palouse Basin Aquifer Committee,Sponsor,PBAC - Palouse Basin Aquifer Committee,Banner Grant Listing Report,,N
+SPONSOR-PENSTA,Pennsylvania State University,Sponsor,PENSTA - Pennsylvania State University,Banner Grant Listing Report,,N
+SPONSOR-PHEINC1,"PHERONYM, INC",Sponsor,"PHEINC1 - PHERONYM, INC",Banner Grant Listing Report,,N
+SPONSOR-POTCOR,PotlatchDeltic Forest Holdings Inc,Sponsor,POTCOR - PotlatchDeltic Forest Holdings Inc,Banner Grant Listing Report,,N
+SPONSOR-POTUSA,Potatoes USA,Sponsor,POTUSA - Potatoes USA,Banner Grant Listing Report,,N
+SPONSOR-PRADIA1,Prana Diabetes,Sponsor,PRADIA1 - Prana Diabetes,Banner Grant Listing Report,,N
+SPONSOR-PURUNI,Purdue University,Sponsor,PURUNI - Purdue University,Banner Grant Listing Report,,N
+SPONSOR-RESLEG1,RESOURCES LEGACY FUND,Sponsor,RESLEG1 - RESOURCES LEGACY FUND,Banner Grant Listing Report,,N
+SPONSOR-RURDEV2,Rural Development Administration of the Republic of Korea,Sponsor,RURDEV2 - Rural Development Administration of the Republic of Korea,Banner Grant Listing Report,,N
+SPONSOR-SACLDI,Santa Clara Valley Water District,Sponsor,SACLDI - Santa Clara Valley Water District,Banner Grant Listing Report,,N
+SPONSOR-SANDIA,Sandia National Laboratories,Sponsor,SANDIA - Sandia National Laboratories,Banner Grant Listing Report,,N
+SPONSOR-SANDIE11,San Diego Natural History Museum,Sponsor,SANDIE11 - San Diego Natural History Museum,Banner Grant Listing Report,,N
+SPONSOR-SASUNI,University of Saskatchewan,Sponsor,SASUNI - University of Saskatchewan,Banner Grant Listing Report,,N
+SPONSOR-SCHENG,"Schweitzer Engineering Laboratories, Inc.",Sponsor,"SCHENG - Schweitzer Engineering Laboratories, Inc.",Banner Grant Listing Report,,N
+SPONSOR-SEBIFO,Selway-Bitterroot Frank Church Foundation,Sponsor,SEBIFO - Selway-Bitterroot Frank Church Foundation,Banner Grant Listing Report,,N
+SPONSOR-SIGXI,Sigma Xi,Sponsor,SIGXI - Sigma Xi,Banner Grant Listing Report,,N
+SPONSOR-SIMFOU1,Simons Foundation,Sponsor,SIMFOU1 - Simons Foundation,Banner Grant Listing Report,,N
+SPONSOR-SKRETT,Skretting,Sponsor,SKRETT - Skretting,Banner Grant Listing Report,,N
+SPONSOR-SNARIV45,Snake River Research and Seed Alliance LLC,Sponsor,SNARIV45 - Snake River Research and Seed Alliance LLC,Banner Grant Listing Report,,N
+SPONSOR-SOCSTU2,Society for the Study of Evolution,Sponsor,SOCSTU2 - Society for the Study of Evolution,Banner Grant Listing Report,,N
+SPONSOR-SOCSYS,Society of Systematic Biologists,Sponsor,SOCSYS - Society of Systematic Biologists,Banner Grant Listing Report,,N
+SPONSOR-SOUADV1,Southwestern Adventist University,Sponsor,SOUADV1 - Southwestern Adventist University,Banner Grant Listing Report,,N
+SPONSOR-SOUDAK,South Dakota State University,Sponsor,SOUDAK - South Dakota State University,Banner Grant Listing Report,,N
+SPONSOR-SOYAQU,Soy Aquaculture Alliance,Sponsor,SOYAQU - Soy Aquaculture Alliance,Banner Grant Listing Report,,N
+SPONSOR-SPASTR,Spark Strategic Solutions LLC,Sponsor,SPASTR - Spark Strategic Solutions LLC,Banner Grant Listing Report,,N
+SPONSOR-SPATEL,Space Telescope Science Institute,Sponsor,SPATEL - Space Telescope Science Institute,Banner Grant Listing Report,,N
+SPONSOR-SPECON4,Office of Species Conservation,Sponsor,SPECON4 - Office of Species Conservation,Banner Grant Listing Report,,N
+SPONSOR-SPEFOU,Spencer Foundation,Sponsor,SPEFOU - Spencer Foundation,Banner Grant Listing Report,,N
+SPONSOR-SPESCIINC,SPECTRAL SCIENCES INC,Sponsor,SPESCIINC - SPECTRAL SCIENCES INC,Banner Grant Listing Report,,N
+SPONSOR-STASMI,Stanley Smith Horticultural Trust,Sponsor,STASMI - Stanley Smith Horticultural Trust,Banner Grant Listing Report,,N
+SPONSOR-STESTO2,"Stepping Stones, Inc",Sponsor,"STESTO2 - Stepping Stones, Inc",Banner Grant Listing Report,,N
+SPONSOR-STIADV,Stibnite Advisory Council,Sponsor,STIADV - Stibnite Advisory Council,Banner Grant Listing Report,,N
+SPONSOR-STILUM,Stimson Lumber Company,Sponsor,STILUM - Stimson Lumber Company,Banner Grant Listing Report,,N
+SPONSOR-STRFOU,Stranahan Foundation,Sponsor,STRFOU - Stranahan Foundation,Banner Grant Listing Report,,N
+SPONSOR-SULAFO,"Sunshine Lady Foundation, Inc.",Sponsor,"SULAFO - Sunshine Lady Foundation, Inc.",Banner Grant Listing Report,,N
+SPONSOR-SYNCRO,"Syngenta Crop Protection, Inc.",Sponsor,"SYNCRO - Syngenta Crop Protection, Inc.",Banner Grant Listing Report,,N
+SPONSOR-SYNSEE,"Syngenta Seeds, Inc.",Sponsor,"SYNSEE - Syngenta Seeds, Inc.",Banner Grant Listing Report,,N
+SPONSOR-SYRUNI1,Syracuse University,Sponsor,SYRUNI1 - Syracuse University,Banner Grant Listing Report,,N
+SPONSOR-TARLST,Tarleton State University,Sponsor,TARLST - Tarleton State University,Banner Grant Listing Report,,N
+SPONSOR-TEASTU,Teal Studio LLC,Sponsor,TEASTU - Teal Studio LLC,Banner Grant Listing Report,,N
+SPONSOR-TECRES,Teck Resource Limited,Sponsor,TECRES - Teck Resource Limited,Banner Grant Listing Report,,N
+SPONSOR-TEXAM,Texas A&M University,Sponsor,TEXAM - Texas A&M University,Banner Grant Listing Report,,N
+SPONSOR-TEXBIO,Texas Biomedical Research Institute,Sponsor,TEXBIO - Texas Biomedical Research Institute,Banner Grant Listing Report,,N
+SPONSOR-TEXTTI,Texas A&M Transportation Institute - TTI,Sponsor,TEXTTI - Texas A&M Transportation Institute - TTI,Banner Grant Listing Report,,N
+SPONSOR-THEAND,"The Andersons, Inc.",Sponsor,"THEAND - The Andersons, Inc.",Banner Grant Listing Report,,N
+SPONSOR-THECEN,The Center for Learner Equity,Sponsor,THECEN - The Center for Learner Equity,Banner Grant Listing Report,,N
+SPONSOR-TWIFAL1,Twin Falls County Extension,Sponsor,TWIFAL1 - Twin Falls County Extension,Banner Grant Listing Report,,N
+SPONSOR-TYSFOO,"Tyson Foods, Inc.",Sponsor,"TYSFOO - Tyson Foods, Inc.",Banner Grant Listing Report,,N
+SPONSOR-UARS5,USDA Agricultural Research Ser,Sponsor,UARS5 - USDA Agricultural Research Ser,Banner Grant Listing Report,,N
+SPONSOR-UCAL2,"University of California, Davis",Sponsor,"UCAL2 - University of California, Davis",Banner Grant Listing Report,,N
+SPONSOR-UERS1,USDA Economic Research Service,Sponsor,UERS1 - USDA Economic Research Service,Banner Grant Listing Report,,N
+SPONSOR-UNCAME,"University of California, Merced",Sponsor,"UNCAME - University of California, Merced",Banner Grant Listing Report,,N
+SPONSOR-UNIBRT,University of British Columbia - Okanagan,Sponsor,UNIBRT - University of British Columbia - Okanagan,Banner Grant Listing Report,,N
+SPONSOR-UNIDEN,University of Colorado Denver,Sponsor,UNIDEN - University of Colorado Denver,Banner Grant Listing Report,,N
+SPONSOR-UNIMARBAL,"University of Maryland, Baltimore County",Sponsor,"UNIMARBAL - University of Maryland, Baltimore County",Banner Grant Listing Report,,N
+SPONSOR-UNIWAY20,United Way of North Idaho Inc,Sponsor,UNIWAY20 - United Way of North Idaho Inc,Banner Grant Listing Report,,N
+SPONSOR-UNVTEN,University of Tennessee,Sponsor,UNVTEN - University of Tennessee,Banner Grant Listing Report,,N
+SPONSOR-UOFME,University of Maine,Sponsor,UOFME - University of Maine,Banner Grant Listing Report,,N
+SPONSOR-UOFW1,University of Washington,Sponsor,UOFW1 - University of Washington,Banner Grant Listing Report,,N
+SPONSOR-URBANO,Urbanova,Sponsor,URBANO - Urbanova,Banner Grant Listing Report,,N
+SPONSOR-USADRY,"USA Dry Pea & Lentil Council, Inc.",Sponsor,"USADRY - USA Dry Pea & Lentil Council, Inc.",Banner Grant Listing Report,,N
+SPONSOR-USAGRI,US Agriculture Information Network,Sponsor,USAGRI - US Agriculture Information Network,Banner Grant Listing Report,,N
+SPONSOR-USAPHIS,USDA-APHIS,Sponsor,USAPHIS - USDA-APHIS,Banner Grant Listing Report,,N
+SPONSOR-USARM,US Army Corps of Engineers,Sponsor,USARM - US Army Corps of Engineers,Banner Grant Listing Report,,N
+SPONSOR-USBLM,USDI Bureau Of Land Management,Sponsor,USBLM - USDI Bureau Of Land Management,Banner Grant Listing Report,,N
+SPONSOR-USDA,USDA - Dept of Agriculture,Sponsor,USDA - USDA - Dept of Agriculture,Banner Grant Listing Report,,N
+SPONSOR-USDAFS,USDA-FS Fire & Aviation,Sponsor,USDAFS - USDA-FS Fire & Aviation,Banner Grant Listing Report,,N
+SPONSOR-USDANRCS,USDA Natural Resources Conservation Service,Sponsor,USDANRCS - USDA Natural Resources Conservation Service,Banner Grant Listing Report,,N
+SPONSOR-USDFAS,USDA Foreign Agricultural Service,Sponsor,USDFAS - USDA Foreign Agricultural Service,Banner Grant Listing Report,,N
+SPONSOR-USDFOR,USDA Forest Service,Sponsor,USDFOR - USDA Forest Service,Banner Grant Listing Report,,N
+SPONSOR-USDRMA,USDA Risk Management Agency,Sponsor,USDRMA - USDA Risk Management Agency,Banner Grant Listing Report,,N
+SPONSOR-USDRUS,USDA Rural Utilities Service,Sponsor,USDRUS - USDA Rural Utilities Service,Banner Grant Listing Report,,N
+SPONSOR-USFS,USFS,Sponsor,USFS - USFS,Banner Grant Listing Report,,N
+SPONSOR-USFWS,US Fish and Wildlife Service,Sponsor,USFWS - US Fish and Wildlife Service,Banner Grant Listing Report,,N
+SPONSOR-USGS,US Geological Survey,Sponsor,USGS - US Geological Survey,Banner Grant Listing Report,,N
+SPONSOR-USJUS,US Department of Justice,Sponsor,USJUS - US Department of Justice,Banner Grant Listing Report,,N
+SPONSOR-USNPS,USDI National Park Service,Sponsor,USNPS - USDI National Park Service,Banner Grant Listing Report,,N
+SPONSOR-USNUC,U.S. Nuclear Regulatory Commission,Sponsor,USNUC - U.S. Nuclear Regulatory Commission,Banner Grant Listing Report,,N
+SPONSOR-USOE1,US Department of Education,Sponsor,USOE1 - US Department of Education,Banner Grant Listing Report,,N
+SPONSOR-USOE3,US Department of Education,Sponsor,USOE3 - US Department of Education,Banner Grant Listing Report,,N
+SPONSOR-UTASTA,Utah State University,Sponsor,UTASTA - Utah State University,Banner Grant Listing Report,,N
+SPONSOR-UTAUNI,University of Utah,Sponsor,UTAUNI - University of Utah,Banner Grant Listing Report,,N
+SPONSOR-VALUSA,Valent U.S.A. LLC,Sponsor,VALUSA - Valent U.S.A. LLC,Banner Grant Listing Report,,N
+SPONSOR-VASOWA,Valley Soil and Water Conservation District,Sponsor,VASOWA - Valley Soil and Water Conservation District,Banner Grant Listing Report,,N
+SPONSOR-VENWEL,VentureWell,Sponsor,VENWEL - VentureWell,Banner Grant Listing Report,,N
+SPONSOR-VIRTEC,Virginia Tech,Sponsor,VIRTEC - Virginia Tech,Banner Grant Listing Report,,N
+SPONSOR-WAKFOR,Wake Forest University,Sponsor,WAKFOR - Wake Forest University,Banner Grant Listing Report,,N
+SPONSOR-WAOFMA,Washington State Office of Financial Management,Sponsor,WAOFMA - Washington State Office of Financial Management,Banner Grant Listing Report,,N
+SPONSOR-WASDFW,Washington Department of Fish & Wildlife,Sponsor,WASDFW - Washington Department of Fish & Wildlife,Banner Grant Listing Report,,N
+SPONSOR-WASDNR,Washington Department of Natural Resources,Sponsor,WASDNR - Washington Department of Natural Resources,Banner Grant Listing Report,,N
+SPONSOR-WASOIL,Washington Oilseeds Commission,Sponsor,WASOIL - Washington Oilseeds Commission,Banner Grant Listing Report,,N
+SPONSOR-WASSTA12,Washington State University,Sponsor,WASSTA12 - Washington State University,Banner Grant Listing Report,,N
+SPONSOR-WATSHE,Watershed Research And Training Center,Sponsor,WATSHE - Watershed Research And Training Center,Banner Grant Listing Report,,N
+SPONSOR-WEESCI,Weed Science Society of America,Sponsor,WEESCI - Weed Science Society of America,Banner Grant Listing Report,,N
+SPONSOR-WESFOR,Western Forestry & Conservation Assn,Sponsor,WESFOR - Western Forestry & Conservation Assn,Banner Grant Listing Report,,N
+SPONSOR-WESSTA1,Western States Arts Federation,Sponsor,WESSTA1 - Western States Arts Federation,Banner Grant Listing Report,,N
+SPONSOR-WESVIR,West Virginia University,Sponsor,WESVIR - West Virginia University,Banner Grant Listing Report,,N
+SPONSOR-WILKSB,Wilks Brothers LLC,Sponsor,WILKSB - Wilks Brothers LLC,Banner Grant Listing Report,,N
+SPONSOR-WISUNI,University of Wisconsin,Sponsor,WISUNI - University of Wisconsin,Banner Grant Listing Report,,N
+SPONSOR-WTFC,Washington Tree Fruit Research Commission,Sponsor,WTFC - Washington Tree Fruit Research Commission,Banner Grant Listing Report,,N
+SPONSOR-XVERUNI,University of Vermont,Sponsor,XVERUNI - University of Vermont,Banner Grant Listing Report,,N
+SPONSOR-YALUNI1,Yale University,Sponsor,YALUNI1 - Yale University,Banner Grant Listing Report,,N
+SPONSOR-YELYUK,Yellowstone to Yukon Conservation Inititiative,Sponsor,YELYUK - Yellowstone to Yukon Conservation Inititiative,Banner Grant Listing Report,,N
+SPONSOR-YURTRI,Yurok Tribe,Sponsor,YURTRI - Yurok Tribe,Banner Grant Listing Report,,N
+SPONSOR-ZEIBRO,Zeigler Bros Inc.,Sponsor,ZEIBRO - Zeigler Bros Inc.,Banner Grant Listing Report,,N

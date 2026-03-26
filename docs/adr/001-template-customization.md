@@ -9,7 +9,7 @@ need obvious, mechanical customization on day one, especially project naming,
 repository URLs, and security ownership metadata.
 
 ## Decision
-Keep `{{PROJECT_NAME}}` placeholders only in a small, documented set of files and
+Keep `OpenERA Pilot Review` placeholders only in a small, documented set of files and
 add automation to detect any unexpected template placeholders elsewhere.
 
 ## Consequences

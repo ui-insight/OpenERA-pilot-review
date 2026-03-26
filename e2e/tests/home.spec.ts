@@ -4,7 +4,7 @@ test("template homepage renders", async ({ page }) => {
   await page.goto("/");
 
   await expect(
-    page.getByRole("heading", { name: "{{PROJECT_NAME}}" }),
+    page.getByRole("heading", { name: "OpenERA Pilot Review" }),
   ).toBeVisible();
   await expect(
     page.getByText("Built from the UI-Insight TEMPLATE-app"),

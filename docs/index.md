@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# OpenERA Pilot Review
 
-Welcome to the documentation for **{{PROJECT_NAME}}**.
+Welcome to the documentation for **OpenERA Pilot Review**.
 
 This project was built from the [UI-Insight TEMPLATE-app](https://github.com/ui-insight/TEMPLATE-app),
 which provides a standardized React + FastAPI stack for university business applications.

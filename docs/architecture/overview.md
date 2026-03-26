@@ -2,7 +2,7 @@
 
 ## System Architecture
 
-{{PROJECT_NAME}} follows a client-server architecture with clear separation of concerns:
+OpenERA Pilot Review follows a client-server architecture with clear separation of concerns:
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌──────────────┐

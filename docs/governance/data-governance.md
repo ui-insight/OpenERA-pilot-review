@@ -1,6 +1,6 @@
 # Data Governance
 
-This document defines the data governance standards for {{PROJECT_NAME}}.
+This document defines the data governance standards for OpenERA Pilot Review.
 
 ## Principles
 

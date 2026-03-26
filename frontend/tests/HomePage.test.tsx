@@ -7,7 +7,7 @@ describe("HomePage", () => {
     render(<HomePage />);
 
     expect(
-      screen.getByRole("heading", { name: "{{PROJECT_NAME}}" }),
+      screen.getByRole("heading", { name: "OpenERA Pilot Review" }),
     ).toBeInTheDocument();
     expect(
       screen.getByText("Built from the UI-Insight TEMPLATE-app"),

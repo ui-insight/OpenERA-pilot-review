@@ -1,6 +1,6 @@
 # Data Classification
 
-All data stored or processed by {{PROJECT_NAME}} must be classified according to the
+All data stored or processed by OpenERA Pilot Review must be classified according to the
 following framework, aligned with university data governance policy.
 
 ## Classification Levels

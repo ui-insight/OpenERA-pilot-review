@@ -1,0 +1,52 @@
+{
+  "total_manifest_rows": 1237,
+  "documents_staged": 1237,
+  "content_duplicates_flagged": 298,
+  "unresolved_parents": 0,
+  "by_bucket": {
+    "AA4673": {
+      "total": 187,
+      "staged": 187,
+      "duplicates": 21
+    },
+    "AA6006": {
+      "total": 171,
+      "staged": 171,
+      "duplicates": 7
+    },
+    "OS7090": {
+      "total": 477,
+      "staged": 477,
+      "duplicates": 242
+    },
+    "SI3394": {
+      "total": 360,
+      "staged": 360,
+      "duplicates": 26
+    },
+    "V250261": {
+      "total": 42,
+      "staged": 42,
+      "duplicates": 2
+    }
+  },
+  "by_category": {
+    "Award Instrument": 334,
+    "Post Award Submission notes and forms": 257,
+    "Proposal Correspondence": 158,
+    "Subawards": 142,
+    "Post Award Submission": 131,
+    "Proposal": 93,
+    "Linked Submissions": 35,
+    "Original Budget": 29,
+    "Uncategorized Nested Record": 25,
+    "Submission Export": 19,
+    "SPA Checklist": 11,
+    "Amendments": 3
+  },
+  "by_parent_type": {
+    "Award": 854,
+    "Proposal": 383
+  },
+  "pilot_filter_applied": true
+}

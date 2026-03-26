@@ -1,0 +1,19 @@
+allowed_value_id,group_name,code,label,description
+AV-DOCTYPE-001,Document_Type,DOC-AMEND,Amendments,Document category: Amendments
+AV-DOCTYPE-002,Document_Type,DOC-AWARD-INST,Award Instrument,Document category: Award Instrument
+AV-DOCTYPE-003,Document_Type,DOC-EARLY-SETUP,Early Setup Request Form,Document category: Early Setup Request Form
+AV-DOCTYPE-004,Document_Type,DOC-EXPORT-COMPL,ExportControl Compliance,Document category: ExportControl Compliance
+AV-DOCTYPE-005,Document_Type,DOC-FCOI-COMPL,FCOI Compliance,Document category: FCOI Compliance
+AV-DOCTYPE-006,Document_Type,DOC-LINKED-SUB,Linked Submissions,Document category: Linked Submissions
+AV-DOCTYPE-007,Document_Type,DOC-ORIG-BUDGET,Original Budget,Document category: Original Budget
+AV-DOCTYPE-008,Document_Type,DOC-OTHER-APPROV,Other Required Approvals,Document category: Other Required Approvals
+AV-DOCTYPE-009,Document_Type,DOC-POST-AWARD,Post Award Submission,Document category: Post Award Submission
+AV-DOCTYPE-010,Document_Type,DOC-POST-AWARD-NF,Post Award Submission notes and forms,Document category: Post Award Submission notes and forms
+AV-DOCTYPE-011,Document_Type,DOC-PROPOSAL,Proposal,Document category: Proposal
+AV-DOCTYPE-012,Document_Type,DOC-PROP-CORR,Proposal Correspondence,Document category: Proposal Correspondence
+AV-DOCTYPE-013,Document_Type,DOC-SPA-CHECK,SPA Checklist,Document category: SPA Checklist
+AV-DOCTYPE-014,Document_Type,DOC-SPONSOR-PA,Sponsor Prior Approval Request,Document category: Sponsor Prior Approval Request
+AV-DOCTYPE-015,Document_Type,DOC-SUBAWARD,Subawards,Document category: Subawards
+AV-DOCTYPE-016,Document_Type,DOC-SUBMIT-EXP,Submission Export,Document category: Submission Export
+AV-DOCTYPE-017,Document_Type,DOC-TOP-LEVEL,Top Level Source,Document category: Top Level Source
+AV-DOCTYPE-018,Document_Type,DOC-UNCATEGORIZED,Uncategorized Nested Record,Document category: Uncategorized Nested Record

@@ -12,5 +12,6 @@ async def health_check():
 
 
 # Register resource routers below:
-# from app.api.v1 import users
-# api_router.include_router(users.router, prefix="/users", tags=["users"])
+from app.api.v1 import pilot
+
+api_router.include_router(pilot.router, prefix="/pilot", tags=["pilot"])

@@ -1,4 +1,4 @@
-"""{{PROJECT_NAME}} — FastAPI Application Entry Point."""
+"""OpenERA Pilot Review — FastAPI Application Entry Point."""
 
 from contextlib import asynccontextmanager
 
@@ -8,12 +8,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.api.v1.router import api_router
 from app.config import settings
 from app.db.engine import init_db
+from app.db.seed import seed_db
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Application startup and shutdown events."""
     await init_db()
+    if settings.SEED_ON_STARTUP:
+        await seed_db()
     yield
 
 

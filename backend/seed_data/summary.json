@@ -1,0 +1,67 @@
+{
+  "gap_counts": {
+    "Award": 1907,
+    "IndirectRate": 24,
+    "Organization": 114,
+    "Project": 1679,
+    "Proposal": 1679
+  },
+  "manifest": {
+    "manifest_available": true,
+    "manifest_award_buckets": 6,
+    "manifest_categories": {
+      "Amendments": 3,
+      "Award Instrument": 346,
+      "Linked Submissions": 36,
+      "Original Budget": 36,
+      "Post Award Submission": 131,
+      "Post Award Submission notes and forms": 319,
+      "Proposal": 97,
+      "Proposal Correspondence": 193,
+      "SPA Checklist": 15,
+      "Subawards": 144,
+      "Submission Export": 19,
+      "Top Level Source": 4,
+      "Uncategorized Nested Record": 25
+    },
+    "manifest_file_count": 1368,
+    "manifest_proposal_ids": 15
+  },
+  "metrics": {
+    "award_rows": 1914,
+    "award_title_coverage_pct": 0.37,
+    "award_titles_enriched": 7,
+    "indirect_rate_lookup_gap_pct": 25.26,
+    "indirect_rate_rows": 95,
+    "indirect_rate_structured_decode_pct": 18.95,
+    "indirect_rates_needing_lookup": 24,
+    "indirect_rates_partial_decode": 6,
+    "indirect_rates_structured_decode": 18,
+    "legacy_proposal_count": 80,
+    "organization_lookup_gap_pct": 24.62,
+    "organization_needing_lookup": 114,
+    "organization_rows": 463,
+    "project_rows": 1685,
+    "project_title_coverage_pct": 0.36,
+    "project_titles_enriched": 6,
+    "proposal_rows": 1685,
+    "proposal_title_coverage_pct": 0.36,
+    "proposal_titles_enriched": 6
+  },
+  "document_staging": {
+    "pilot_documents_staged": 1237,
+    "pilot_documents_linked_to_award": 854,
+    "pilot_documents_linked_to_proposal": 383,
+    "pilot_unresolved_parents": 0,
+    "pilot_content_duplicates": 298,
+    "document_type_categories_defined": 18,
+    "document_type_categories_used": 12
+  },
+  "top_recommendations": [
+    "Load Banner organization lookup data to resolve department names and sponsor normalization gaps.",
+    "Acquire the institutional F&A agreement table to decode coded indirect rates.",
+    "Expand VERAS enrichment beyond the locally sampled proposals to improve proposal and award title coverage.",
+    "Review remaining uncategorized manifest records and align them to the document taxonomy.",
+    "Review 298 content-duplicate documents (especially OS7090's 242) to decide on deduplication policy."
+  ]
+}

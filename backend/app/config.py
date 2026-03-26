@@ -6,13 +6,14 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "{{PROJECT_NAME}}"
+    PROJECT_NAME: str = "OpenERA Pilot Review"
     DATABASE_URL: str = "postgresql+asyncpg://postgres:postgres@localhost:5432/app"
     SECRET_KEY: str = "change-me-in-production"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 480
     DEV_MODE: bool = True
     UPLOAD_DIR: str = "./uploads"
     CORS_ORIGINS: str = '["http://localhost:5173", "http://localhost:9200"]'
+    SEED_ON_STARTUP: bool = False
 
     @property
     def cors_origins_list(self) -> list[str]:

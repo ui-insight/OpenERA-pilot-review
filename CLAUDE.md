@@ -1,4 +1,4 @@
-# CLAUDE.md — Agent Context for {{PROJECT_NAME}}
+# CLAUDE.md — Agent Context for OpenERA Pilot Review
 
 > This file is the authoritative guide for AI coding agents working on this project.
 > It defines the tech stack, conventions, standards, and boundaries that agents must follow.
@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-**{{PROJECT_NAME}}** is a web application for University of Idaho business operations,
+**OpenERA Pilot Review** is a web application for University of Idaho business operations,
 built with a React frontend and FastAPI backend. This project was scaffolded from
 the [TEMPLATE-app](https://github.com/ui-insight/TEMPLATE-app) repository template.
 
@@ -89,7 +89,7 @@ These rules are **normative constraints** — agents must follow them without ex
 ## Project Structure
 
 ```
-{{PROJECT_NAME}}/
+OpenERA Pilot Review/
 ├── .github/              # GitHub templates and CI workflows
 │   ├── ISSUE_TEMPLATE/   # Bug report and feature request templates
 │   ├── workflows/        # CI/CD pipeline definitions
